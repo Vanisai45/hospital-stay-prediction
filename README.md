@@ -5,9 +5,6 @@ This project predicts the **length of hospital stays** using structured healthca
 ---
 
 
-
----
-
 ## 🔧 Technologies & Libraries
 
 - Python
